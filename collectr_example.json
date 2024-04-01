@@ -1,0 +1,6 @@
+{
+	"file": "example.json",
+	"fields": {
+		"email": "text|regex:.*@.*"
+	}
+}
