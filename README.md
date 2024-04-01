@@ -42,4 +42,5 @@ go run cmd/collectr/collectr.go
 
 ```sh
 go build cmd/collectr/collectr.go
+./collectr
 ```
